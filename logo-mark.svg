@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <g transform="translate(120 120)" fill="#0B0C0A">
+    <g id="arm">
+      <path d="M 10 -14 C 24 -58 64 -78 94 -58 C 70 -52 32 -34 10 -14 Z"/>
+    </g>
+    <use href="#arm" transform="rotate(90)"/>
+    <use href="#arm" transform="rotate(180)"/>
+    <use href="#arm" transform="rotate(270)"/>
+    <circle r="7"/>
+  </g>
+</svg>
